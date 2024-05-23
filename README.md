@@ -1,4 +1,4 @@
-# View the weather
+# Look the weather
 
 Here goes the Final project for **JavaScript** course. I add the background from the **Pomodoro App** because i really like how it looks, also I did it random so every time you want to see the weather the background changes.
 
